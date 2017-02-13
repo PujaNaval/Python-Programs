@@ -1,0 +1,8 @@
+tuple = (3, 'sushant', 3.24, "hi hello")
+tuple1 = (23, 'bahekar')   
+print(tuple)
+print(tuple[0])
+print(tuple[1:4])
+print(tuple [2:])
+print(tuple1 * 2)
+print(tuple + tuple1)
